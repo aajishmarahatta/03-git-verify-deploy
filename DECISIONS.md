@@ -10,3 +10,6 @@ What check did you run on the live page, and what would have made that check fai
 A check that could not have failed is not a check.
 
 <your answer here>
+
+The check I ran on the live page is that it contains the sentence that I wanted it to display: "Hey. My name is Aajish and this is my website."
+It also made sure the style.css loaded correclty by making sure the website has a dark blue backround and a yellow heading. 
